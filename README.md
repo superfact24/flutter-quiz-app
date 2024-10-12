@@ -28,7 +28,7 @@ Before running this project, make sure you have the following installed:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/flutter-quiz-app.git
+    git clone https://github.com/superfact24/flutter-quiz-app.git
     ```
 
 2. Navigate to the project directory:
